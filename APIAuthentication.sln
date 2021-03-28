@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAuthenticationCaller", "APIAuthenticationCaller\APIAuthenticationCaller.csproj", "{649EB655-BC55-4245-96C1-6D1FAF75AB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIAuthentication.Resource", "APIAuthentication.Resource\APIAuthentication.Resource.csproj", "{4E1C286A-5A86-43AD-86DF-2834F9727F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649EB655-BC55-4245-96C1-6D1FAF75AB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649EB655-BC55-4245-96C1-6D1FAF75AB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649EB655-BC55-4245-96C1-6D1FAF75AB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649EB655-BC55-4245-96C1-6D1FAF75AB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1C286A-5A86-43AD-86DF-2834F9727F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1C286A-5A86-43AD-86DF-2834F9727F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1C286A-5A86-43AD-86DF-2834F9727F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1C286A-5A86-43AD-86DF-2834F9727F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16095AF7-5095-4AB6-A142-50C89780B7E3}
+	EndGlobalSection
+EndGlobal
