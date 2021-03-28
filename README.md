@@ -5,7 +5,7 @@ Source code for article: https://rmauro.dev/api-key-authentication-extending-the
 # contributors
 ```json
 const contributors = {
-  author: rmauro dev
-  site: https://rmauro.dev
+  'author': 'rmauro dev'
+  'site': 'https://rmauro.dev'
 };
 ```
